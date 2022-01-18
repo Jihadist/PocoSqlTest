@@ -1,0 +1,8 @@
+[requires]
+poco/1.11.1
+
+[options]
+poco:enable_data_odbc=True
+
+
+    
